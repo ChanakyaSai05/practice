@@ -13,6 +13,7 @@ function CheckBox() {
     }
     console.log("result");
     //comment added
+    //@nd comment
   };
   return (
     <div>
