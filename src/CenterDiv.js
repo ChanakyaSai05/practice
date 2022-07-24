@@ -10,7 +10,7 @@ function CenterDiv() {
           <h2>Left</h2>
           <h2>Left</h2>
           <h2>Left</h2>
-          <h2>Left</h2>
+          
         </div>
         <div className="right">
           <h2>Right</h2>
