@@ -17,7 +17,7 @@ function CenterDiv() {
           <h2>Right</h2>
           <h2>Right</h2>
           <h2>Right</h2>
-          <h2>Right</h2>
+         
         </div>
       </div>
       <div className="bottom-class"></div>
