@@ -11,7 +11,8 @@ function CheckBox() {
         result += " ";
       }
     }
-    console.log("result1", result);
+    console.log("result");
+    //comment added
   };
   return (
     <div>
