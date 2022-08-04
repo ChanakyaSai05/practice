@@ -10,7 +10,6 @@ export default function Exp() {
         <p>About us</p>
         <p>How it works</p>
         <p>Explore</p>
-        <p>Impact</p>
         <span className="avatar"></span>
       </div>
     </div>
