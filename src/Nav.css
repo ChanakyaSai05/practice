@@ -1,0 +1,28 @@
+.nav-container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  border: 1px solid black;
+}
+.nav-cont-left {
+  display: flex;
+  align-items: center;
+}
+.nav-cont-left > p {
+  margin-right: 20px;
+}
+.nav-cont-right {
+  display: flex;
+  align-items: center;
+}
+.nav-cont-middle > p {
+  margin-right: 20px;
+}
+.nav-cont-middle {
+  display: flex;
+  align-items: center;
+}
+.nav-cont-right > p {
+  margin-right: 20px;
+}

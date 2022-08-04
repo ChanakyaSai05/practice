@@ -6,6 +6,7 @@ import Debounce from "./Debounce";
 import Exp from "./Exp";
 import LifeCycle from "./LifeCycle";
 import LifeCycleFunction from "./LifeCycleFunction";
+import Nav from "./Nav";
 import OtherInput from "./OtherInput";
 import Radio from "./Radio";
 import Usememo from "./Usememo";
@@ -23,7 +24,8 @@ function App() {
       {/* <Usememo /> */}
       {/* <Usememo2 /> */}
       {/* <Exp /> */}
-      <Color />
+      {/* <Color /> */}
+      <Nav />
     </div>
   );
 }
