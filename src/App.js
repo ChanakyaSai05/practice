@@ -1,7 +1,9 @@
 import "./App.css";
 import CenterDiv from "./CenterDiv";
 import CheckBox from "./CheckBox";
+import Color from "./Color";
 import Debounce from "./Debounce";
+import Exp from "./Exp";
 import LifeCycle from "./LifeCycle";
 import LifeCycleFunction from "./LifeCycleFunction";
 import OtherInput from "./OtherInput";
@@ -19,7 +21,9 @@ function App() {
       {/* <CheckBox /> */}
       {/* <OtherInput /> */}
       {/* <Usememo /> */}
-      <Usememo2 />
+      {/* <Usememo2 /> */}
+      {/* <Exp /> */}
+      <Color />
     </div>
   );
 }
